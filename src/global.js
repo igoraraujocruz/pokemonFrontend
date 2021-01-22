@@ -9,5 +9,10 @@ export default createGlobalStyle`
     }
     body {
         background: #3d72b4;
+        align-items: center;
+        background: #34e89e;
+        background: -webkit-linear-gradient(to right, #0f3443, #34e89e);
+        background: linear-gradient(to right, #0f3443, #34e89e); 
+        font-family: 'Potta One', cursive;
     }
 `;
