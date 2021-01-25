@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-
+import backgroundImage from './imgs/background.jpg';
 export default createGlobalStyle`
     * {
         margin: 0;
@@ -8,11 +8,8 @@ export default createGlobalStyle`
         box-sizing: border-box;
     }
     body {
-        background: #3d72b4;
+        background-image: url(${backgroundImage});
         align-items: center;
-        background: #34e89e;
-        background: -webkit-linear-gradient(to right, #0f3443, #34e89e);
-        background: linear-gradient(to right, #0f3443, #34e89e); 
         font-family: 'Potta One', cursive;
     }
 `;

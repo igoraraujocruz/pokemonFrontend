@@ -31,6 +31,7 @@ export const Pokemons = styled.div`
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
+    
 
     li, h5 {
         list-style-type: none;
@@ -49,15 +50,14 @@ export const Pokemons = styled.div`
 `;
 
 export const Container = styled.div`
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.6);
     border-radius: 20%;
     margin: 5px;
-    transition: 0.5s;
+    padding: 0 2px;
+    transition: 250ms all;
 
     &:hover {
         background: rgba(255, 255, 255, 1);
-    }
-    &:hover .nomePokemon {
-        font-size: 25px;
+        transform: scale(1.2)
     }
 `;
