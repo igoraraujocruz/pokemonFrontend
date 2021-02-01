@@ -5,8 +5,7 @@ Application to search for Pokemons, but only the first 100.</p>
 
 <img src="https://img.shields.io/github/issues/igoraraujocruz/pokemonFrontend" /> <img src="https://img.shields.io/github/forks/igoraraujocruz/pokemonFrontend" /> <img src="https://img.shields.io/github/stars/igoraraujocruz/pokemonFrontend" />
 
-</br></br>
-
+</br>
 
 <p align="center">
  <a href="#about">About</a> •
@@ -18,12 +17,14 @@ Application to search for Pokemons, but only the first 100.</p>
  <a href="#-license">License</a> •
  <a href="#contributors">Contributors</a> • 
  <a href="#author">Author</a>
+ </br></br>
  
 </p>
 
 <h4 align="center">
     Finished ✔
 </h4>
+</br>
 
 ### About
 
