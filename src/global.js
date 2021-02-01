@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import backgroundImage from './imgs/background.jpg';
+import backgroundImage from './imgs/background.png';
 export default createGlobalStyle`
     * {
         margin: 0;
