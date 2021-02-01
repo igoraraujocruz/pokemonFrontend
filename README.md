@@ -11,15 +11,15 @@ Application to search for Pokemons, but only the first 100.</p>
 
 
 <p align="center">
- <a href="###-about">About</a> •
- <a href="###-features">Features</a> •
- <a href="###-layout">Layout</a> • 
- <a href="#-Prerequisites">Prerequisites</a> • 
- <a href="#-technology">Technology</a> • 
- <a href="#-get-started">Get-Started</a> • 
- <a href="#-license">License</a> •
- <a href="##-contributors">Contributors</a> • 
- <a href="##-author">Author</a>
+ <a href="#about">About</a> •
+ <a href="#features">Features</a> •
+ <a href="#layout">Layout</a> • 
+ <a href="#prerequisites">Prerequisites</a> • 
+ <a href="#technology">Technology</a> • 
+ <a href="#get-started">Get-Started</a> • 
+ <a href="#license">License</a> •
+ <a href="#contributors">Contributors</a> • 
+ <a href="#author">Author</a>
  
 </p>
 
