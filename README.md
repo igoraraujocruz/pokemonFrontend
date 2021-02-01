@@ -87,7 +87,7 @@ go to http://localhost:3000
 
 ## 📝 License
 
-This project is under a license [Nintendo/Creatures Inc./GAME FREAK inc.](./LICENSE).
+This project is under a license [Nintendo/Creatures Inc./GAME FREAK inc.](./LICENSE)
 </br></br></br>
 
 ## Contributors
