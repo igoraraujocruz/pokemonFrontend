@@ -3,9 +3,7 @@
 Application to search for Pokemons, but only the first 100.</p>
 
 
-<img src="https://img.shields.io/github/issues/igoraraujocruz/pokemonFrontend" />
-<img src="https://img.shields.io/github/forks/igoraraujocruz/pokemonFrontend" />
-<img src="https://img.shields.io/github/stars/igoraraujocruz/pokemonFrontend" />
+<img src="https://img.shields.io/github/issues/igoraraujocruz/pokemonFrontend" /> <img src="https://img.shields.io/github/forks/igoraraujocruz/pokemonFrontend" /> <img src="https://img.shields.io/github/stars/igoraraujocruz/pokemonFrontend" />
 
 </br></br>
 
